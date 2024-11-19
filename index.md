@@ -1,3 +1,5 @@
-<h1>this is a header </h1>
+###### this is a header ######
 
-<h2>made some minor changes </h2>
+# this is a header
+
+* made some minor changes
