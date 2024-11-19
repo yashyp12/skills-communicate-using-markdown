@@ -9,3 +9,7 @@
 ``` js
 let name = "user";
 ```
+
+- [X] OPTION 1
+- [X] OPTION 2
+- [ ] TASK 3
